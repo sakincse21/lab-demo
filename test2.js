@@ -7,5 +7,8 @@ function dupli(arrayN){
     return arrayN.length!=ns.size;
 }
 
+console.log('hi first');
+
+
 const arrayN = [1,2,3,2];
 console.log(dupli(arrayN));
