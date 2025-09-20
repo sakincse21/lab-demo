@@ -8,6 +8,7 @@ function dupli(arrayN){
 }
 
 console.log('hi first');
+console.log('hi second');
 
 
 const arrayN = [1,2,3,2];
