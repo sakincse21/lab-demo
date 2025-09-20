@@ -8,7 +8,7 @@ function dupli(arrayN){
 }
 
 console.log('hi first');
-console.log('hi second');
+console.log('first after second may conflict');
 
 
 const arrayN = [1,2,3,2];
